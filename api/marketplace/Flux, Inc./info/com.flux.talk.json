@@ -1,0 +1,11 @@
+{
+  "name": "Flux Talk",
+  "shortname": "Talk",
+  "identifier": "com.flux.messages",
+  "version": "3.0.0",
+  "artwork": "ui3",
+  "description": "Flux Talk, the secure messenger from Flux. ✦ TALK WITH FRIENDS AND FAMILY Flux Talk allows you to keep in touch with anyone easily with text, reactions and stickers, as well as HD photo and video uploads. Simply link your phone number and import your contacts to start the conversation! ✦ END-TO-END ENCRYPTION Everything you send is private. Not even Flux can see what you send or see. This includes text and attachments. ✦ POSTS, A NEW WAY TO SEE WHAT'S HAPPENING Post anything, and all of your contacts immediately get notified so they can reply. Just like messages, posts are delivered securely. ✦ GROUP CHAT AND COMMUNITIES Add all of your friends to a group so you can talk together. Even better, create a community (which is like a container for group chats) so you can have one space for all of your chats.",
+  "shortdescription": "Messages, calls and posts with friends.",
+  "developer": "Flux, Inc.",
+  "category": "Social"
+}
